@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.mypoolhub.com
+
+# Sitemaps
+Sitemap: https://www.mypoolhub.com/sitemap.xml
